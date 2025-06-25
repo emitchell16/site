@@ -8,6 +8,6 @@ venue: "Emory University, Department of Health Policy and Management"
 
 Emory University, Department of Health Policy and Management
 ======
-HPM 585 - Quantitative Methods (Stata): Fall 2023
+HPM 585 - Quantitative Methods (Stata): Teaching Assistant (Fall 2023)
 
 Ad Hoc Substitute Teaching
