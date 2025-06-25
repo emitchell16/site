@@ -32,7 +32,7 @@ author:
   email            : "estaton@emory.edu" 
 
   # Academic websites
-  departmentbio         : "https://sph.emory.edu/profile/phd-student/elizabeth-staton"
+  departmentbio    : "https://sph.emory.edu/profile/phd-student/elizabeth-staton"
   googlescholar    : "https://scholar.google.com/citations?user=b1yd0AgAAAAJ&hl=en"
 
   #orcid            : "http://orcid.org/yourorcidurl"
@@ -97,21 +97,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+
 
 
 # Analytics
