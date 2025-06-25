@@ -12,4 +12,4 @@ Fall 2023
 
 Ad Hoc Substitute Teaching for HPM Department
 ======
-2023 to present
+
