@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink: /teaching
+permalink: /teaching/
 venue: "Emory University, Department of Health Policy and Management"
 ---
 
