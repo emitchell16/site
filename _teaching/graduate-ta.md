@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/
 venue: "Emory University"
-date: "2023-present"
 ---
 
 Emory University, Department of Health Policy and Management
