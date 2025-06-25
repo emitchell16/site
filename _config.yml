@@ -25,14 +25,14 @@ author:
   avatar           : "headshot 6.25.jpeg"
   name             : "Liz Mitchell"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate in Health Services Research and Health Policy, Health Economics Concentration"
+  bio              : "PhD Candidate in Health Services Research and Health Policy"
   location         : "Atlanta, Georgia"
   employer         : "Emory University"
   uri              : # URL
   email            : "estaton@emory.edu" 
 
   # Academic websites
-  academia         : "https://sph.emory.edu/profile/phd-student/elizabeth-staton"
+  departmentbio         : "https://sph.emory.edu/profile/phd-student/elizabeth-staton"
   googlescholar    : "https://scholar.google.com/citations?user=b1yd0AgAAAAJ&hl=en"
 
   #orcid            : "http://orcid.org/yourorcidurl"
