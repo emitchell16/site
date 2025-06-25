@@ -15,7 +15,7 @@ name                     : &name "Liz Mitchell"
 description              : &description "PhD Candidate at Emory University Rollins School of Public Health"
 url                      : http://elizabeth-mitchell.com
 baseurl                  : ""
-repository               : "emitchell16/site.github.io"
+repository               : "emitchell16/site"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
