@@ -1,4 +1,4 @@
-z# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -15,7 +15,7 @@ name                     : &name "Liz Mitchell"
 description              : &description "PhD Candidate at Emory University Rollins School of Public Health"
 url                      : http://elizabeth-mitchell.com
 baseurl                  : ""
-repository               : "emitchell16/site"
+repository               : "emitchell16/site.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
