@@ -1,14 +1,13 @@
 ---
 permalink: /
 title: "About"
-exerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher pursuing my PhD in Health Services Research and Health Policy with a concentration in Health Economics at Emory University in the Rollins School of Public Health. 
+I am a researcher in the fourth year of my PhD in Health Services Research and Health Policy with a concentration in Health Economics at Emory University Rollins School of Public Health.
 
 I am interested in the accessibility of prescription drugs and other medical products, particularly in Medicare. My current research focus is access to high-cost glucose-lowering drugs. 
 
