@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Download CV here]({{ site.url }}/files/ecm_cv.pdf)
