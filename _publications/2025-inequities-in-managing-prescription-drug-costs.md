@@ -2,7 +2,7 @@
 title: "Racial and Ethnic Inequities in Managing Prescription Drug Costs Among Older Adults in Medicare"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-inequities-prescription-drug-costs
+permalink: /publication/2025-prescription-drug-cost-inequities
 excerpt: 'We used nationally representative data to evaluate how differences in socioeconomic resources, access to care, health care need, and the use of cost-saving strategies contributed to racial and ethnic inequalities in prescription cost burden among older Medicare beneficiaries.'
 date: 2025-03-03
 venue: 'Journal of Racial and Ethnic Health Disparities'
