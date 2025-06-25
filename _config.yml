@@ -13,8 +13,8 @@ title                    : "Liz Mitchell"
 title_separator          : "-"
 name                     : &name "Liz Mitchell"
 description              : &description "PhD Candidate at Emory University Rollins School of Public Health"
-url                      : https://emitchell16.github.io
-baseurl                  : "/site" # the subpath of your site, e.g. "/blog"
+url                      : http://elizabeth-mitchell.com
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "emitchell16.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
